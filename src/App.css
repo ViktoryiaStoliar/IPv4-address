@@ -1,0 +1,27 @@
+div {
+    width: 628px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+div h1 {
+    height: 11px;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div p {
+    display: flex;
+    width: 628px;
+    height: 36px;
+    flex-direction: column;
+    justify-content: center;
+    color: #FFF;
+    /* text-align: center; */
+    text-transform: uppercase;
+}
+
